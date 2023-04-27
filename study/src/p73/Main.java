@@ -10,6 +10,7 @@ public class Main {
 		double d = 4.8;
 		
 		int result1 = a + b ;
+//		byte result3 = a + b; 'b'가 int 값의 정수이기 때문에 byte 명령어의 결과로 출력 불가능하다(그릇이 작아서)
 		double result2 = c + d;
 		
 		System.out.println(a);

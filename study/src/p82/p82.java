@@ -1,6 +1,6 @@
-package p81;
+package p82;
 
-public class p81 {
+public class p82 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

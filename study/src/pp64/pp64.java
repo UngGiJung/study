@@ -10,3 +10,4 @@ public class pp64 {
 		System.out.println(A);
 	}
 }
+ 

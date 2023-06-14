@@ -21,7 +21,7 @@ public class OperatorExample {
 		System.out.println(result2);
 		System.out.println(result3);
 		
-		
+		 
 		
 		
 	}

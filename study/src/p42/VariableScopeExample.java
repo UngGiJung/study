@@ -12,7 +12,7 @@ public class VariableScopeExample {
 		int v3 = v1 + v2 + 5;
 		System.out.println("v3");
 		
-		
+		 
 
 	}
 

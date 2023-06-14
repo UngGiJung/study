@@ -14,6 +14,6 @@ public class p77 {
 		System.out.println(iz);
 		System.out.println(lz1);
 		System.out.println(lz2);
-	}
+	} 
 
 }

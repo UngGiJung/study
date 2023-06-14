@@ -13,6 +13,6 @@ public class CharExample {
 		System.out.println(i3);
 		
 		
-	}
+	} 
 
 }

@@ -23,4 +23,4 @@ public class p85 {
 		System.out.println("result4 : " + result4);
 	}
 
-}
+} 

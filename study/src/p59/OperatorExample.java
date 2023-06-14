@@ -20,7 +20,7 @@ public class OperatorExample {
 		System.out.println(c);
 		System.out.println(res1);
 		System.out.println(res2);
-		
+		 
 	}
 
 }

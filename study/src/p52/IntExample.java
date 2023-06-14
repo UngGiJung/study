@@ -13,4 +13,4 @@ public class IntExample {
 		System.out.println(var3);
 	}
 
-}
+} 

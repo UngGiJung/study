@@ -20,7 +20,7 @@ public class p83 {
 		System.out.println(str4);
 		System.out.println(str5);
 		System.out.println(str6);
-		
+		 
 		
 	
 	}
